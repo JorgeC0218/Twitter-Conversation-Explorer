@@ -6,3 +6,10 @@ A visual interface for querying and (micro-)analyzing interactions that take pla
 
 Technologies used:
 ChartJS, Redux, React, ElasticSearch, AWS Elastic BeanStalk, FireBase, Digital Ocean, NodeJS, Express, Python, React-Materialize, 
+
+For a quick demo, click [here!](https://youtu.be/f7JJK4FDBL0)
+
+Our platform allows for users to search any keyword and see a variety of charts based on data from the Twitter API:
+![Image of Hurricane](https://media.giphy.com/media/RKKtcDP412fKl0jvwL/giphy.gif)
+
+
